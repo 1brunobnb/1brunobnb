@@ -13,7 +13,7 @@ at Nova Southeastern University.
 | **Staiff HR** | AI-powered HR platform: time & attendance with geofencing, onboarding, AI-generated training and Ask HR. | [staiffhr.com](https://staiffhr.com) |
 | **Caridian** | Revenue intelligence for medical practices: intake, coding, claims and operations in one view. | In development |
 | **FinPocket** | Personal finance app: automatic bank sync, budgets, recurring bills, jobs and invoicing. | [getfinpocket.com](https://getfinpocket.com) |
-| **Paice** | Native fitness & nutrition app that closes the loop between recovery, training and nutrition. | In development |
+| **Paice** | Native fitness & nutrition app that closes the loop between recovery, training and nutrition. | [joinpaice.com](https://joinpaice.com) |
 
 Source code is private. Product walkthroughs available on request.
 
