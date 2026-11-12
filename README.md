@@ -14,7 +14,7 @@ at Nova Southeastern University.
 | **Caridian** | Revenue intelligence for medical practices: intake, coding, claims and operations in one view. | [caridianhealth.com](https://caridianhealth.com) |
 | **FinPocket** | Personal finance app: automatic bank sync, budgets, recurring bills, jobs and invoicing. | [getfinpocket.com](https://getfinpocket.com) |
 | **Paice** | Native fitness & nutrition app that closes the loop between recovery, training and nutrition. | [joinpaice.com](https://joinpaice.com) |
-| **Taike** | AI video studio: record yourself once, then generate promo videos with your own avatar, cloned voice and lip-sync in PT, EN and ES. | [taikestudio.com](https://taikestudio.com) |
+| **Taike** | AI video studio: record yourself once, then generate promo videos with your own avatar, cloned voice and lip-sync in many languages. | [taikestudio.com](https://taikestudio.com) |
 
 Source code is private. Product walkthroughs available on request.
 
