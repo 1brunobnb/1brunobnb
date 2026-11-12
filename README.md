@@ -14,6 +14,7 @@ at Nova Southeastern University.
 | **Caridian** | Revenue intelligence for medical practices: intake, coding, claims and operations in one view. | [caridianhealth.com](https://caridianhealth.com) |
 | **FinPocket** | Personal finance app: automatic bank sync, budgets, recurring bills, jobs and invoicing. | [getfinpocket.com](https://getfinpocket.com) |
 | **Paice** | Native fitness & nutrition app that closes the loop between recovery, training and nutrition. | [joinpaice.com](https://joinpaice.com) |
+| **Taike** | AI video studio: record yourself once, then generate promo videos with your own avatar, cloned voice and lip-sync in PT, EN and ES. | [taikestudio.com](https://taikestudio.com) |
 
 Source code is private. Product walkthroughs available on request.
 
@@ -21,7 +22,7 @@ Source code is private. Product walkthroughs available on request.
 - **Frontend:** TypeScript, React, Next.js, React Native (Expo), Tailwind CSS
 - **Backend & data:** Supabase (Postgres, Auth, Row Level Security, Edge Functions), SQL, REST APIs
 - **AI:** Claude API, LLM features in production (generated training, in-app assistants)
-- **Infra & integrations:** Vercel, Cloudflare, GitHub, Plaid
+- **Infra & integrations:** Vercel, Cloudflare, GitHub, Plaid, Modal (serverless GPU)
 
 #### Languages
 English · Portuguese · Spanish
